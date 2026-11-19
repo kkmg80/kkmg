@@ -1,16 +1,16 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "date": "2026-11-19",
   "notes": {
     "ar": [
-      "أول إصدار لميزان التداول"
+      "تحديث تجريبي للتأكد من التحديث التلقائي"
     ],
     "en": [
-      "First Mizan release"
+      "Test update to confirm auto-update"
     ]
   },
   "package": {
-    "url": "mizan-1.0.0.zip",
+    "url": "mizan-1.0.1.zip",
     "sha256": "d524f7f6d203893b28f5bd4a2d052084ceb8ab3e549adc901fe741b91bc19715",
     "size": 21180
   },
