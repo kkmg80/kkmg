@@ -1,19 +1,17 @@
 {
-  "version": "2.0.4",
+  "version": "2.0.5",
   "date": "2026-11-19",
   "notes": {
     "ar": [
-      "فحص التحديثات تلقائياً أول ما تفتح اللانشر",
-      "شريط التحديثات أعلى الواجهة مع زر فحص وزر تحديث الآن"
+      "إصلاح ارتفاع النافذة: اللانشر يضبطها على 450 ويوسّطها في الشاشة"
     ],
     "en": [
-      "Checks for updates as soon as the launcher opens",
-      "Update bar at the top with Check and Update now buttons"
+      "Window height fix: the launcher sets it to 450 and centers it"
     ]
   },
   "package": {
-    "url": "launcher-2.0.4.zip",
-    "sha256": "050107694c80c45be4ab781b5af0433c43537a6a2739d208b0345153365eaf29",
-    "size": 121300
+    "url": "launcher-2.0.5.zip",
+    "sha256": "97b48964692b96dbbcdb55fd306f977bd5ce9d63c4e073228ace084d2d32a964",
+    "size": 121982
   }
 }
