@@ -1,18 +1,18 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "date": "2026-11-19",
   "notes": {
     "ar": [
-      "تحديث تجريبي للتأكد من التحديث التلقائي"
+      "الربط مع منصة Tickmill MT5 مباشرة (وليس WRPro)"
     ],
     "en": [
-      "Test update to confirm auto-update"
+      "Connects directly to the Tickmill MT5 terminal (not WRPro)"
     ]
   },
   "package": {
-    "url": "mizan-1.0.1.zip",
-    "sha256": "d524f7f6d203893b28f5bd4a2d052084ceb8ab3e549adc901fe741b91bc19715",
-    "size": 21180
+    "url": "mizan-1.0.2.zip",
+    "sha256": "bd80b01389088fccab434aad3ddc499b51087cff11dbd3af4c401390084efa0e",
+    "size": 21247
   },
   "app": {
     "id": "mizan",
