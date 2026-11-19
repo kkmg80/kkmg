@@ -1,17 +1,19 @@
 {
-  "version": "2.0.6",
+  "version": "2.0.7",
   "date": "2026-11-19",
   "notes": {
     "ar": [
-      "ارتفاع نافذة اللانشر 600"
+      "زر للسماح بالتداول على الحساب الحقيقي في صفحة ميزان (مقفل افتراضياً)",
+      "اختيار بايثون مناسب لمكتبة MetaTrader5 تلقائياً"
     ],
     "en": [
-      "Launcher window height 600"
+      "Real-account switch on the Mizan page (off by default)",
+      "Picks a Python version supported by MetaTrader5"
     ]
   },
   "package": {
-    "url": "launcher-2.0.6.zip",
-    "sha256": "504422d1eb0951c5416d27d06e14d1835197813af92be5584b135c80a370b8c2",
-    "size": 121981
+    "url": "launcher-2.0.7.zip",
+    "sha256": "62267a49414fb1d9b306164b1922ac3f2f4038e832ea8fdb1b9d37baae54d51d",
+    "size": 122875
   }
 }

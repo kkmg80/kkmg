@@ -1,18 +1,22 @@
 {
-  "version": "1.0.2",
+  "version": "1.1.0",
   "date": "2026-11-19",
   "notes": {
     "ar": [
-      "الربط مع منصة Tickmill MT5 مباشرة (وليس WRPro)"
+      "اختيار منصة Tickmill MT5 تلقائياً إذا كان على الجهاز أكثر من منصة",
+      "السماح بالحساب الحقيقي من زر في اللانشر (مقفل افتراضياً)",
+      "عرض رقم الإصدار في حالة الاتصال"
     ],
     "en": [
-      "Connects directly to the Tickmill MT5 terminal (not WRPro)"
+      "Auto-select the Tickmill MT5 terminal",
+      "Real account can be enabled from a switch in the launcher (off by default)",
+      "Version shown in status"
     ]
   },
   "package": {
-    "url": "mizan-1.0.2.zip",
-    "sha256": "bd80b01389088fccab434aad3ddc499b51087cff11dbd3af4c401390084efa0e",
-    "size": 21247
+    "url": "mizan-1.1.0.zip",
+    "sha256": "25ccd63b210d0e6c215a30de41074ce8410955bd7c2e5cd0b7ae2854d3c517ed",
+    "size": 21717
   },
   "app": {
     "id": "mizan",
