@@ -1,17 +1,17 @@
 {
-  "version": "2.0.5",
+  "version": "2.0.6",
   "date": "2026-11-19",
   "notes": {
     "ar": [
-      "إصلاح ارتفاع النافذة: اللانشر يضبطها على 450 ويوسّطها في الشاشة"
+      "ارتفاع نافذة اللانشر 600"
     ],
     "en": [
-      "Window height fix: the launcher sets it to 450 and centers it"
+      "Launcher window height 600"
     ]
   },
   "package": {
-    "url": "launcher-2.0.5.zip",
-    "sha256": "97b48964692b96dbbcdb55fd306f977bd5ce9d63c4e073228ace084d2d32a964",
-    "size": 121982
+    "url": "launcher-2.0.6.zip",
+    "sha256": "504422d1eb0951c5416d27d06e14d1835197813af92be5584b135c80a370b8c2",
+    "size": 121981
   }
 }
