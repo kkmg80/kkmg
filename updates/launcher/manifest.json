@@ -1,19 +1,19 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "date": "2026-11-19",
   "notes": {
     "ar": [
-      "تحديث تجريبي للتأكد من التحديث التلقائي",
-      "تحسينات في فتح نافذة واحدة فقط"
+      "نافذة اللانشر أقصر وتناسب حجم الشاشة",
+      "فتح نافذة واحدة فقط مهما ضغطت الأيقونة"
     ],
     "en": [
-      "Test update to confirm auto-update",
-      "Single-window improvements"
+      "Shorter window that fits the screen",
+      "Only one window, however many times you click"
     ]
   },
   "package": {
-    "url": "launcher-2.0.1.zip",
-    "sha256": "e87117b3832aadcc0a03df0446ac59ccd64387dd7673a706d1fae2ed8dfad4ea",
-    "size": 119771
+    "url": "launcher-2.0.2.zip",
+    "sha256": "56c3a0c0a0842b4f33220137b1e235429b549767b0d1c5b7320b3a6fbad64f9e",
+    "size": 119929
   }
 }
