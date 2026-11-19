@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "date": "2026-11-19",
+  "notes": {
+    "ar": [
+      "أول إصدار لميزان التداول"
+    ],
+    "en": [
+      "First Mizan release"
+    ]
+  },
+  "package": {
+    "url": "mizan-1.0.0.zip",
+    "sha256": "d524f7f6d203893b28f5bd4a2d052084ceb8ab3e549adc901fe741b91bc19715",
+    "size": 21180
+  },
+  "app": {
+    "id": "mizan",
+    "name": {
+      "ar": "ميزان التداول",
+      "en": "Mizan Trading"
+    },
+    "desc": {
+      "ar": "مناطق العرض والطلب والتداول عبر MetaTrader 5",
+      "en": "Supply/demand zones and trading via MetaTrader 5"
+    },
+    "type": "python",
+    "entry": "mizan_bridge.py",
+    "args": [
+      "--no-browser"
+    ],
+    "url": "http://127.0.0.1:8765",
+    "port": 8765,
+    "requires": [
+      "MetaTrader5"
+    ],
+    "needs_process": {
+      "image": "terminal64.exe",
+      "label": {
+        "ar": "منصة MetaTrader 5",
+        "en": "MetaTrader 5 terminal"
+      },
+      "find": "*/terminal64.exe",
+      "prefer": "tickmill"
+    },
+    "keep_alive": true,
+    "icon": "mizan",
+    "color": "#0b6e63"
+  }
+}

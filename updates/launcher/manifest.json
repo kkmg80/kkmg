@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "date": "2026-11-19",
+  "notes": {
+    "ar": [
+      "أول إصدار للانشر"
+    ],
+    "en": [
+      "First launcher release"
+    ]
+  },
+  "package": {
+    "url": "launcher-2.0.0.zip",
+    "sha256": "1a19e556a3eb1ba11c118ae2bf37e3a8b844b69ced69c2b0807f73f6b698687c",
+    "size": 119770
+  }
+}
