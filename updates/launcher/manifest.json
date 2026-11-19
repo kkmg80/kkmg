@@ -1,19 +1,19 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.3",
   "date": "2026-11-19",
   "notes": {
     "ar": [
-      "نافذة اللانشر أقصر وتناسب حجم الشاشة",
-      "فتح نافذة واحدة فقط مهما ضغطت الأيقونة"
+      "ارتفاع نافذة اللانشر 450",
+      "تصميم مضغوط يناسب النافذة القصيرة"
     ],
     "en": [
-      "Shorter window that fits the screen",
-      "Only one window, however many times you click"
+      "Launcher window height 450",
+      "Compact layout for the shorter window"
     ]
   },
   "package": {
-    "url": "launcher-2.0.2.zip",
-    "sha256": "56c3a0c0a0842b4f33220137b1e235429b549767b0d1c5b7320b3a6fbad64f9e",
-    "size": 119929
+    "url": "launcher-2.0.3.zip",
+    "sha256": "a84c383d59afe782f01d712e81783b626edf658d17aa837e35f4144de6e5b01b",
+    "size": 120102
   }
 }
